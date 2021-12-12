@@ -26,7 +26,7 @@ if($donne['text']==$_POST["question".$_POST['hidden']])
 // echo $_SESSION['score'];
 // session_destroy();
 
-// echo $data['text'];
+// echo $donne['text'].'<br>';
 // if(isset($_POST['submit']))
 // {
     // echo $_POST["question".$_POST['hidden']];
